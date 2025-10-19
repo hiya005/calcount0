@@ -1,0 +1,12 @@
+Calorie Tracker Session Log
+Timestamp: 2025-10-18 08:23:31
+
+Meal Name      	Calories
+------------------------------
+breakfast      	200.0
+dinner         	500.0
+------------------------------
+Total:         	700.0
+Average:       	350.00
+
+Status: You are within your daily calorie limit.
